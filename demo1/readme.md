@@ -5,6 +5,14 @@ zrenderJs 的小练习
 
 
 
+webpack文档
+
+package.json
+
+script命令
+开发环境
+"server": "webpack-dev-server --env development --open --config build/webpack.common.config.js"
+env标明环境    open    执行的文件
 
 
 
